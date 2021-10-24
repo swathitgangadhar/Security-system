@@ -1,4 +1,4 @@
-# Security-system
+# Surveillance-system
 
 In the world day, researchers and developers have come up with a wide range of surveillance systems that are deployed at homes, in industries and remote areas at the same time control the tasks through affordable, intelligent, and easy-to-implement hardware and software systems. The system will be able to detect motion (intruder), activate the embedded camera to take pictures after motion is sensed and send the image through email to the home owner.
 
